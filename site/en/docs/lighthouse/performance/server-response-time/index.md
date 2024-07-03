@@ -59,7 +59,7 @@ If you are server-side rendering any React components, consider using [`renderTo
 
 ### WordPress
 
-Themes, plugins, and server specifications all contribute to server response time. Consider finding a more optimized theme, carefully selecting an optimization plugin, and/or upgrading your server.
+Choose a lightweight theme (ideally a block theme) and implement  full-page caching (or a static site solution). Disable unnecessary plugins to minimize server overhead.  Consider upgrading your hosting to managed or dedicated service. 
 
 ## Resources
 
